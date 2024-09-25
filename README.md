@@ -1,1 +1,2 @@
 # Connect-Four-Game
+Developed a two-player Connect Four game with an AI opponent that uses the Minimax algorithm with Alpha-Beta pruning to make optimal moves. The game features alternating turns between a human player and the computer, with a fixed search depth for the AI. Tech Used: Python, Minimax algorithm, Alpha-Beta pruning, Jupyter Notebook for interactive gameplay, and custom evaluation function for AI decision-making.
